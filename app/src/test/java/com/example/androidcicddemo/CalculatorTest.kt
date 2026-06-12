@@ -12,7 +12,7 @@ class CalculatorTest {
         val calculator = Calculator()
 
         assertEquals(
-            4,
+            5,
             calculator.add(2, 2)
         )
     }
